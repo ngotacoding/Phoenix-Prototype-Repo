@@ -3,7 +3,7 @@ import numpy as np
 from model_utils import predict_claim
 import plotly.graph_objects as go
 
-specialty = ['Family Practice', 'OBGYN', 'Casrdiology', 'Pediatrics',
+specialty = ['Family Practice', 'OBGYN', 'Cardiology', 'Pediatrics',
              'Internal Medicine', 'Anesthesiology', 'Emergency Medicine',
              'Ophthamology', 'Urological Surgery', 'Orthopedic Surgery',
              'Neurology/Neurosurgery', 'Occupational Medicine', 'Resident',
@@ -40,10 +40,11 @@ def back_to_confirm():
     st.session_state["current_step"] = "Step 3"
 
 def step_1():
-    st.title(":green[Step 1]")
+    st.title(":green[Predict your Claim amount]")
+    st.subheader("Step 1 of 3")
     with st.container(border=1):
         st.subheader(":orange[Personal Details]")
-        st.session_state['age'] = st.number_input("Age", min_value=0, max_value=120)
+        st.session_state['age'] = st.number_input("Age", min_value=0, max_value=120, value=18)
         st.session_state['gender'] = st.selectbox("Gender", ["Male", "Female"])
         st.session_state['marital_status'] = st.selectbox("Marital Status", [0, 1, 2, 3, 4], format_func=lambda x: ["Divorced", "Single", "Married", "Widowed", "Unknown"][x])
         st.session_state['private_attorney'] = st.selectbox("Nature of Attorney", [0, 1], format_func=lambda x: "Private" if x == 1 else "Not Private")
@@ -51,7 +52,8 @@ def step_1():
     st.button("Next", key="next1", type='primary', on_click=next_step, args=['Step 2'])
 
 def step_2():
-    st.title(":green[Step 2]")
+    st.title(":green[Predict your Claim amount]")
+    st.subheader("Step 2 of 3")
     with st.container(border=1):
         st.subheader(":orange[Injury & Medical Details]")
         st.session_state['severity'] = st.slider("Severity of Injury", 1, 9, help="Rating of damage from 1 (emotional trauma) to 9 (death)")
@@ -66,7 +68,8 @@ def step_2():
         st.button("Next", key="next1", type='primary', on_click=next_step, args=['Step 3'])
     
 def step_3():
-    st.title(":green[Step 3: Confirm Details]")
+    st.title(":green[Predict your Claim amount]")
+    st.subheader("Step 3 of 3: Confirm Your Details")
     with st.container(border=1):
         st.subheader(":orange[Personal Details]")
         st.write(f"**Age:** {st.session_state.get('age')}")
