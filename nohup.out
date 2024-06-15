@@ -1,0 +1,1021 @@
+[I 2024-06-13 10:54:23.661 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-06-13 10:54:23.666 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-06-13 10:54:23.671 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-06-13 10:54:23.677 ServerApp] notebook | extension was successfully linked.
+[I 2024-06-13 10:54:24.033 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-06-13 10:54:24.058 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-06-13 10:54:24.060 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-06-13 10:54:24.061 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-06-13 10:54:24.067 LabApp] JupyterLab extension loaded from /home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyterlab
+[I 2024-06-13 10:54:24.067 LabApp] JupyterLab application directory is /home/ngota/miniconda3/envs/vision/share/jupyter/lab
+[I 2024-06-13 10:54:24.067 LabApp] Extension Manager is 'pypi'.
+[I 2024-06-13 10:54:24.084 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-06-13 10:54:24.087 ServerApp] notebook | extension was successfully loaded.
+[I 2024-06-13 10:54:24.088 ServerApp] Serving notebooks from local directory: /home/ngota/WorkArea/Omdena/Project Phoenix/UI Prototyping
+[I 2024-06-13 10:54:24.088 ServerApp] Jupyter Server 2.13.0 is running at:
+[I 2024-06-13 10:54:24.088 ServerApp] http://localhost:8888/lab
+[I 2024-06-13 10:54:24.088 ServerApp]     http://127.0.0.1:8888/lab
+[I 2024-06-13 10:54:24.088 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2024-06-13 10:54:26.148 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2024-06-13 10:54:30.012 LabApp] The extension "@plotly/dash-jupyterlab" is outdated.
+    
+[I 2024-06-13 10:54:30.012 LabApp] Build is up to date
+[W 2024-06-13 10:54:30.202 ServerApp] 404 GET /api/contents/99%20Library/WorkArea/Omdena/Project%20Phoenix/Phoenix/src/task-3-modelling/preprocessing?1718265270195 (13fda1ddf9e14f08946c82a641b9c925@127.0.0.1) 2.53ms referer=http://localhost:8888/lab
+[W 2024-06-13 10:54:30.203 ServerApp] 404 GET /api/contents/99%20Library/WorkArea/Omdena/Project%20Phoenix/Phoenix/src/task-3-modelling/preprocessing?1718265270195 (127.0.0.1): No such file or directory: 99 Library/WorkArea/Omdena/Project Phoenix/Phoenix/src/task-3-modelling/preprocessing
+[W 2024-06-13 10:54:33.594 ServerApp] Notebook medical_malpractice_modeling.ipynb is not trusted
+[I 2024-06-13 10:54:35.142 ServerApp] Kernel started: 92615434-505f-4057-9b4e-82defaea471c
+[I 2024-06-13 10:54:36.188 ServerApp] Connecting to kernel 92615434-505f-4057-9b4e-82defaea471c.
+[I 2024-06-13 10:54:36.208 ServerApp] Connecting to kernel 92615434-505f-4057-9b4e-82defaea471c.
+[I 2024-06-13 10:54:36.230 ServerApp] Connecting to kernel 92615434-505f-4057-9b4e-82defaea471c.
+[I 2024-06-13 10:54:36.663 JupyterNotebookApp] 302 GET /tree/medical_malpractice_modeling.ipynb (13fda1ddf9e14f08946c82a641b9c925@127.0.0.1) 25.09ms
+[W 2024-06-13 10:54:36.982 ServerApp] 404 GET /custom/jupyter-navbar/navbar.css (13fda1ddf9e14f08946c82a641b9c925@127.0.0.1) 30.02ms referer=http://localhost:8888/custom/custom.css
+[I 2024-06-13 10:54:43.188 ServerApp] Starting buffering for 92615434-505f-4057-9b4e-82defaea471c:d00fe6d1-2501-40c2-b8ee-a12cec3f69d2
+[W 2024-06-13 10:55:12.080 ServerApp] 404 GET /custom/jupyter-navbar/navbar.css (13fda1ddf9e14f08946c82a641b9c925@127.0.0.1) 3.54ms referer=http://localhost:8888/custom/custom.css
+[I 2024-06-13 10:55:14.039 ServerApp] Connecting to kernel 92615434-505f-4057-9b4e-82defaea471c.
+[W 2024-06-13 10:55:14.576 ServerApp] Notebook medical_malpractice_modeling.ipynb is not trusted
+[I 2024-06-13 10:55:15.729 ServerApp] Starting buffering for 92615434-505f-4057-9b4e-82defaea471c:61207290-168f-4d6b-9d66-6364d872b4ef
+[I 2024-06-13 10:55:16.865 ServerApp] Connecting to kernel 92615434-505f-4057-9b4e-82defaea471c.
+[I 2024-06-13 10:57:15.455 ServerApp] Saving file at /medical_malpractice_modeling.ipynb
+[W 2024-06-13 10:57:15.458 ServerApp] Notebook medical_malpractice_modeling.ipynb is not trusted
+[I 2024-06-13 11:03:18.288 ServerApp] Saving file at /medical_malpractice_modeling.ipynb
+[W 2024-06-13 11:03:18.289 ServerApp] Notebook medical_malpractice_modeling.ipynb is not trusted
+[I 2024-06-13 11:48:01.277 ServerApp] Saving file at /medical_malpractice_modeling.ipynb
+[W 2024-06-13 11:48:01.279 ServerApp] Notebook medical_malpractice_modeling.ipynb is not trusted
+[I 2024-06-13 11:50:02.277 ServerApp] Saving file at /medical_malpractice_modeling.ipynb
+[W 2024-06-13 11:50:02.279 ServerApp] Notebook medical_malpractice_modeling.ipynb is not trusted
+[I 2024-06-13 11:54:03.273 ServerApp] Saving file at /medical_malpractice_modeling.ipynb
+[W 2024-06-13 11:54:03.275 ServerApp] Notebook medical_malpractice_modeling.ipynb is not trusted
+[W 2024-06-13 11:54:45.239 ServerApp] 404 GET /hub/api (@127.0.0.1) 2.29ms referer=None
+[W 2024-06-13 11:54:45.372 ServerApp] 404 GET /hub/api (@127.0.0.1) 1.78ms referer=None
+[W 2024-06-13 11:55:04.098 ServerApp] 404 GET /hub/api (@127.0.0.1) 1.84ms referer=None
+[I 2024-06-13 11:55:04.151 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 0.85ms
+[W 2024-06-13 11:55:04.229 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.235 ServerApp] 403 GET /api/kernelspecs?1718268904192 (@127.0.0.1) 6.38ms referer=None
+[W 2024-06-13 11:55:04.236 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.238 ServerApp] 403 GET /api/kernels?1718268904195 (@127.0.0.1) 2.27ms referer=None
+[W 2024-06-13 11:55:04.241 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.244 ServerApp] 403 GET /api/kernels?1718268904208 (@127.0.0.1) 5.60ms referer=None
+[W 2024-06-13 11:55:04.245 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.246 ServerApp] 403 GET /api/sessions?1718268904210 (@127.0.0.1) 7.35ms referer=None
+[W 2024-06-13 11:55:04.263 ServerApp] 404 GET /hub/api (@127.0.0.1) 4.71ms referer=None
+[W 2024-06-13 11:55:04.265 ServerApp] 404 GET /hub/api (@127.0.0.1) 6.85ms referer=None
+[W 2024-06-13 11:55:04.267 ServerApp] 404 GET /hub/api (@127.0.0.1) 8.76ms referer=None
+[W 2024-06-13 11:55:04.270 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.271 ServerApp] 403 GET /api/kernelspecs?1718268904250 (@127.0.0.1) 1.95ms referer=None
+[W 2024-06-13 11:55:04.287 ServerApp] 404 GET /hub/api (@127.0.0.1) 1.87ms referer=None
+[I 2024-06-13 11:55:04.301 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 1.13ms
+[I 2024-06-13 11:55:04.302 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 0.97ms
+[I 2024-06-13 11:55:04.304 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 1.21ms
+[I 2024-06-13 11:55:04.306 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 1.11ms
+[W 2024-06-13 11:55:04.395 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.397 ServerApp] 403 GET /api/kernelspecs?1718268904312 (@127.0.0.1) 1.85ms referer=None
+[W 2024-06-13 11:55:04.398 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.399 ServerApp] 403 GET /api/kernels?1718268904314 (@127.0.0.1) 1.83ms referer=None
+[W 2024-06-13 11:55:04.401 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.403 ServerApp] 403 GET /api/kernelspecs?1718268904328 (@127.0.0.1) 2.01ms referer=None
+[W 2024-06-13 11:55:04.410 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.411 ServerApp] 403 GET /api/kernels?1718268904329 (@127.0.0.1) 5.35ms referer=None
+[W 2024-06-13 11:55:04.412 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.413 ServerApp] 403 GET /api/kernelspecs?1718268904332 (@127.0.0.1) 6.88ms referer=None
+[W 2024-06-13 11:55:04.414 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.415 ServerApp] 403 GET /api/kernels?1718268904334 (@127.0.0.1) 8.63ms referer=None
+[W 2024-06-13 11:55:04.417 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.418 ServerApp] 403 GET /api/kernelspecs?1718268904347 (@127.0.0.1) 11.07ms referer=None
+[W 2024-06-13 11:55:04.419 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.420 ServerApp] 403 GET /api/kernels?1718268904349 (@127.0.0.1) 12.58ms referer=None
+[W 2024-06-13 11:55:04.420 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.421 ServerApp] 403 GET /api/kernels?1718268904353 (@127.0.0.1) 13.99ms referer=None
+[W 2024-06-13 11:55:04.422 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.423 ServerApp] 403 GET /api/sessions?1718268904355 (@127.0.0.1) 15.29ms referer=None
+[W 2024-06-13 11:55:04.424 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.429 ServerApp] 403 GET /api/kernels?1718268904356 (@127.0.0.1) 20.94ms referer=None
+[W 2024-06-13 11:55:04.430 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.431 ServerApp] 403 GET /api/sessions?1718268904358 (@127.0.0.1) 22.33ms referer=None
+[W 2024-06-13 11:55:04.431 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.435 ServerApp] 403 GET /api/kernels?1718268904365 (@127.0.0.1) 26.38ms referer=None
+[W 2024-06-13 11:55:04.436 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.437 ServerApp] 403 GET /api/sessions?1718268904368 (@127.0.0.1) 27.82ms referer=None
+[W 2024-06-13 11:55:04.437 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.438 ServerApp] 403 GET /api/kernels?1718268904374 (@127.0.0.1) 29.16ms referer=None
+[W 2024-06-13 11:55:04.439 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.440 ServerApp] 403 GET /api/sessions?1718268904376 (@127.0.0.1) 30.52ms referer=None
+[W 2024-06-13 11:55:04.482 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.483 ServerApp] 403 GET /api/kernelspecs?1718268904463 (@127.0.0.1) 1.81ms referer=None
+[W 2024-06-13 11:55:04.485 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.486 ServerApp] 403 GET /api/kernelspecs?1718268904466 (@127.0.0.1) 1.70ms referer=None
+[W 2024-06-13 11:55:04.488 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.489 ServerApp] 403 GET /api/kernelspecs?1718268904468 (@127.0.0.1) 1.66ms referer=None
+[W 2024-06-13 11:55:04.499 ServerApp] 404 GET /hub/api (@127.0.0.1) 1.56ms referer=None
+[W 2024-06-13 11:55:04.501 ServerApp] 404 GET /hub/api (@127.0.0.1) 1.62ms referer=None
+[W 2024-06-13 11:55:04.505 ServerApp] 404 GET /hub/api (@127.0.0.1) 2.01ms referer=None
+[I 2024-06-13 11:55:04.518 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 0.92ms
+[I 2024-06-13 11:55:04.603 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 1.10ms
+[I 2024-06-13 11:55:04.604 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 1.36ms
+[W 2024-06-13 11:55:04.638 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.639 ServerApp] 403 GET /api/kernelspecs?1718268904605 (@127.0.0.1) 1.69ms referer=None
+[W 2024-06-13 11:55:04.640 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.642 ServerApp] 403 GET /api/kernels?1718268904606 (@127.0.0.1) 1.94ms referer=None
+[W 2024-06-13 11:55:04.645 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.646 ServerApp] 403 GET /api/kernels?1718268904610 (@127.0.0.1) 1.92ms referer=None
+[W 2024-06-13 11:55:04.648 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.649 ServerApp] 403 GET /api/sessions?1718268904612 (@127.0.0.1) 1.91ms referer=None
+[W 2024-06-13 11:55:04.681 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.683 ServerApp] 403 GET /api/kernelspecs?1718268904616 (@127.0.0.1) 1.78ms referer=None
+[W 2024-06-13 11:55:04.685 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.686 ServerApp] 403 GET /api/kernels?1718268904620 (@127.0.0.1) 1.77ms referer=None
+[W 2024-06-13 11:55:04.688 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.689 ServerApp] 403 GET /api/kernelspecs?1718268904627 (@127.0.0.1) 2.09ms referer=None
+[W 2024-06-13 11:55:04.692 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.693 ServerApp] 403 GET /api/kernels?1718268904629 (@127.0.0.1) 2.97ms referer=None
+[W 2024-06-13 11:55:04.693 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.695 ServerApp] 403 GET /api/kernels?1718268904651 (@127.0.0.1) 4.17ms referer=None
+[W 2024-06-13 11:55:04.695 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.696 ServerApp] 403 GET /api/sessions?1718268904660 (@127.0.0.1) 5.51ms referer=None
+[W 2024-06-13 11:55:04.697 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.698 ServerApp] 403 GET /api/kernels?1718268904667 (@127.0.0.1) 6.90ms referer=None
+[W 2024-06-13 11:55:04.698 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 11:55:04.700 ServerApp] 403 GET /api/sessions?1718268904674 (@127.0.0.1) 8.44ms referer=None
+[I 2024-06-13 12:11:57.872 ServerApp] Connecting to kernel 92615434-505f-4057-9b4e-82defaea471c.
+[I 2024-06-13 12:11:58.560 ServerApp] Starting buffering for 92615434-505f-4057-9b4e-82defaea471c:8ad9482e-60cc-4dd6-9451-b28f3fd7e9a8
+[W 2024-06-13 12:11:59.812 LabApp] The extension "@plotly/dash-jupyterlab" is outdated.
+    
+[I 2024-06-13 12:11:59.814 LabApp] Build is up to date
+[W 2024-06-13 12:12:00.134 ServerApp] Notebook medical_malpractice_modeling.ipynb is not trusted
+[I 2024-06-13 12:12:01.045 ServerApp] Connecting to kernel 92615434-505f-4057-9b4e-82defaea471c.
+[I 2024-06-13 12:15:25.863 ServerApp] Kernel restarted: 92615434-505f-4057-9b4e-82defaea471c
+[I 2024-06-13 12:15:25.870 ServerApp] Starting buffering for 92615434-505f-4057-9b4e-82defaea471c:d4c870a9-fcb1-4c6d-afca-719afd4f9826
+[I 2024-06-13 12:15:25.880 ServerApp] Connecting to kernel 92615434-505f-4057-9b4e-82defaea471c.
+[I 2024-06-13 12:15:25.881 ServerApp] Restoring connection for 92615434-505f-4057-9b4e-82defaea471c:d4c870a9-fcb1-4c6d-afca-719afd4f9826
+[I 2024-06-13 12:16:00.664 ServerApp] Saving file at /medical_malpractice_modeling.ipynb
+[W 2024-06-13 12:16:00.666 ServerApp] Notebook medical_malpractice_modeling.ipynb is not trusted
+[I 2024-06-13 12:18:00.846 ServerApp] Saving file at /medical_malpractice_modeling.ipynb
+[W 2024-06-13 12:18:00.848 ServerApp] Notebook medical_malpractice_modeling.ipynb is not trusted
+[I 2024-06-13 12:20:01.445 ServerApp] Saving file at /medical_malpractice_modeling.ipynb
+[W 2024-06-13 12:20:01.448 ServerApp] Notebook medical_malpractice_modeling.ipynb is not trusted
+[I 2024-06-13 12:26:03.296 ServerApp] Saving file at /medical_malpractice_modeling.ipynb
+[W 2024-06-13 12:26:03.298 ServerApp] Notebook medical_malpractice_modeling.ipynb is not trusted
+[I 2024-06-13 12:28:13.227 ServerApp] Saving file at /medical_malpractice_modeling.ipynb
+[W 2024-06-13 12:28:13.229 ServerApp] Notebook medical_malpractice_modeling.ipynb is not trusted
+[I 2024-06-13 12:29:24.211 ServerApp] Saving file at /medical_malpractice_modeling.ipynb
+[W 2024-06-13 12:29:24.213 ServerApp] Notebook medical_malpractice_modeling.ipynb is not trusted
+[I 2024-06-13 12:29:30.582 ServerApp] Saving file at /medical_malpractice_modeling.ipynb
+[W 2024-06-13 12:29:30.584 ServerApp] Notebook medical_malpractice_modeling.ipynb is not trusted
+[I 2024-06-13 12:31:30.742 ServerApp] Saving file at /medical_malpractice_modeling.ipynb
+[W 2024-06-13 12:31:30.745 ServerApp] Notebook medical_malpractice_modeling.ipynb is not trusted
+[I 2024-06-13 16:52:36.386 ServerApp] Starting buffering for 92615434-505f-4057-9b4e-82defaea471c:d4c870a9-fcb1-4c6d-afca-719afd4f9826
+[I 2024-06-13 16:58:56.853 ServerApp] Connecting to kernel 92615434-505f-4057-9b4e-82defaea471c.
+[I 2024-06-13 16:58:56.965 ServerApp] Starting buffering for 92615434-505f-4057-9b4e-82defaea471c:bd8adccf-96f6-41c1-b624-38338613b69e
+[W 2024-06-13 16:58:58.617 LabApp] The extension "@plotly/dash-jupyterlab" is outdated.
+    
+[I 2024-06-13 16:58:58.618 LabApp] Build is up to date
+[W 2024-06-13 16:58:59.483 ServerApp] Notebook medical_malpractice_modeling.ipynb is not trusted
+[I 2024-06-13 16:59:00.132 ServerApp] Connecting to kernel 92615434-505f-4057-9b4e-82defaea471c.
+[W 2024-06-13 17:38:34.587 ServerApp] 404 GET /hub/api (@127.0.0.1) 3.02ms referer=None
+[W 2024-06-13 17:38:34.618 ServerApp] 404 GET /hub/api (@127.0.0.1) 28.87ms referer=None
+[W 2024-06-13 17:38:34.620 ServerApp] 404 GET /hub/api (@127.0.0.1) 21.70ms referer=None
+[W 2024-06-13 17:38:34.622 ServerApp] 404 GET /hub/api (@127.0.0.1) 22.89ms referer=None
+[I 2024-06-13 17:38:35.025 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 0.83ms
+[I 2024-06-13 17:38:35.090 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 1.67ms
+[I 2024-06-13 17:38:35.094 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 5.99ms
+[I 2024-06-13 17:38:35.095 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 6.19ms
+[W 2024-06-13 17:38:35.131 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.133 ServerApp] 403 GET /api/kernels?1718289515086 (@127.0.0.1) 16.35ms referer=None
+[W 2024-06-13 17:38:35.133 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.134 ServerApp] 403 GET /api/sessions?1718289515088 (@127.0.0.1) 17.35ms referer=None
+[W 2024-06-13 17:38:35.135 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.136 ServerApp] 403 GET /api/kernelspecs?1718289515093 (@127.0.0.1) 18.60ms referer=None
+[W 2024-06-13 17:38:35.137 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.138 ServerApp] 403 GET /api/kernels?1718289515094 (@127.0.0.1) 9.74ms referer=None
+[W 2024-06-13 17:38:35.139 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.140 ServerApp] 403 GET /api/kernels?1718289515097 (@127.0.0.1) 11.12ms referer=None
+[W 2024-06-13 17:38:35.141 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.142 ServerApp] 403 GET /api/sessions?1718289515098 (@127.0.0.1) 12.75ms referer=None
+[W 2024-06-13 17:38:35.145 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.146 ServerApp] 403 GET /api/kernelspecs?1718289515081 (@127.0.0.1) 2.83ms referer=None
+[W 2024-06-13 17:38:35.146 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.147 ServerApp] 403 GET /api/kernels?1718289515083 (@127.0.0.1) 3.99ms referer=None
+[W 2024-06-13 17:38:35.173 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.174 ServerApp] 403 GET /api/kernelspecs?1718289515104 (@127.0.0.1) 16.72ms referer=None
+[W 2024-06-13 17:38:35.174 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.176 ServerApp] 403 GET /api/kernels?1718289515106 (@127.0.0.1) 17.89ms referer=None
+[W 2024-06-13 17:38:35.185 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.186 ServerApp] 403 GET /api/kernelspecs?1718289515110 (@127.0.0.1) 27.56ms referer=None
+[W 2024-06-13 17:38:35.186 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.187 ServerApp] 403 GET /api/kernels?1718289515111 (@127.0.0.1) 28.74ms referer=None
+[W 2024-06-13 17:38:35.189 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.204 ServerApp] 403 GET /api/kernels?1718289515114 (@127.0.0.1) 44.74ms referer=None
+[W 2024-06-13 17:38:35.204 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.205 ServerApp] 403 GET /api/sessions?1718289515116 (@127.0.0.1) 33.38ms referer=None
+[W 2024-06-13 17:38:35.206 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.207 ServerApp] 403 GET /api/kernels?1718289515118 (@127.0.0.1) 34.50ms referer=None
+[W 2024-06-13 17:38:35.207 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.238 ServerApp] 403 GET /api/sessions?1718289515120 (@127.0.0.1) 65.63ms referer=None
+[W 2024-06-13 17:38:35.258 ServerApp] 404 GET /hub/api (@127.0.0.1) 18.66ms referer=None
+[W 2024-06-13 17:38:35.262 ServerApp] 404 GET /hub/api (@127.0.0.1) 13.93ms referer=None
+[W 2024-06-13 17:38:35.262 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.264 ServerApp] 403 GET /api/kernelspecs?1718289515192 (@127.0.0.1) 12.15ms referer=None
+[W 2024-06-13 17:38:35.265 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.267 ServerApp] 403 GET /api/kernelspecs?1718289515198 (@127.0.0.1) 13.97ms referer=None
+[W 2024-06-13 17:38:35.270 ServerApp] 404 GET /hub/api (@127.0.0.1) 17.05ms referer=None
+[W 2024-06-13 17:38:35.274 ServerApp] 404 GET /hub/api (@127.0.0.1) 20.21ms referer=None
+[I 2024-06-13 17:38:35.303 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 28.16ms
+[I 2024-06-13 17:38:35.317 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 40.78ms
+[I 2024-06-13 17:38:35.317 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 41.11ms
+[I 2024-06-13 17:38:35.318 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 41.24ms
+[W 2024-06-13 17:38:35.354 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.358 ServerApp] 403 GET /api/kernelspecs?1718289515278 (@127.0.0.1) 16.39ms referer=None
+[W 2024-06-13 17:38:35.358 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.361 ServerApp] 403 GET /api/kernels?1718289515279 (@127.0.0.1) 18.71ms referer=None
+[W 2024-06-13 17:38:35.361 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.363 ServerApp] 403 GET /api/kernels?1718289515282 (@127.0.0.1) 20.58ms referer=None
+[W 2024-06-13 17:38:35.364 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.367 ServerApp] 403 GET /api/sessions?1718289515283 (@127.0.0.1) 18.20ms referer=None
+[W 2024-06-13 17:38:35.367 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.371 ServerApp] 403 GET /api/kernelspecs?1718289515309 (@127.0.0.1) 21.77ms referer=None
+[W 2024-06-13 17:38:35.371 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.374 ServerApp] 403 GET /api/kernels?1718289515311 (@127.0.0.1) 24.68ms referer=None
+[W 2024-06-13 17:38:35.375 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.377 ServerApp] 403 GET /api/kernels?1718289515312 (@127.0.0.1) 26.91ms referer=None
+[W 2024-06-13 17:38:35.378 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.381 ServerApp] 403 GET /api/sessions?1718289515313 (@127.0.0.1) 30.60ms referer=None
+[W 2024-06-13 17:38:35.382 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.386 ServerApp] 403 GET /api/kernelspecs?1718289515319 (@127.0.0.1) 34.79ms referer=None
+[W 2024-06-13 17:38:35.386 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.392 ServerApp] 403 GET /api/kernels?1718289515320 (@127.0.0.1) 40.60ms referer=None
+[W 2024-06-13 17:38:35.393 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.397 ServerApp] 403 GET /api/kernelspecs?1718289515323 (@127.0.0.1) 44.70ms referer=None
+[W 2024-06-13 17:38:35.397 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.400 ServerApp] 403 GET /api/kernels?1718289515324 (@127.0.0.1) 46.46ms referer=None
+[W 2024-06-13 17:38:35.400 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.402 ServerApp] 403 GET /api/kernels?1718289515325 (@127.0.0.1) 48.54ms referer=None
+[W 2024-06-13 17:38:35.408 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.411 ServerApp] 403 GET /api/sessions?1718289515327 (@127.0.0.1) 7.15ms referer=None
+[W 2024-06-13 17:38:35.411 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.418 ServerApp] 403 GET /api/kernels?1718289515340 (@127.0.0.1) 13.21ms referer=None
+[W 2024-06-13 17:38:35.418 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.419 ServerApp] 403 GET /api/sessions?1718289515343 (@127.0.0.1) 14.47ms referer=None
+[W 2024-06-13 17:38:35.420 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.421 ServerApp] 403 GET /api/kernelspecs?1718289515356 (@127.0.0.1) 15.72ms referer=None
+[W 2024-06-13 17:38:35.422 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.423 ServerApp] 403 GET /api/kernelspecs?1718289515369 (@127.0.0.1) 16.77ms referer=None
+[W 2024-06-13 17:38:35.423 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.424 ServerApp] 403 GET /api/kernelspecs?1718289515384 (@127.0.0.1) 18.00ms referer=None
+[W 2024-06-13 17:38:35.425 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/home/ngota/miniconda3/envs/vision/lib/python3.12/site-packages/jupyter_server/base/handlers.py", line 782, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-06-13 17:38:35.426 ServerApp] 403 GET /api/kernelspecs?1718289515395 (@127.0.0.1) 18.99ms referer=None
+[I 2024-06-13 18:17:05.340 ServerApp] Starting buffering for 92615434-505f-4057-9b4e-82defaea471c:f538f1de-1fb3-46f6-86e4-0196236b0c4e
+[I 2024-06-13 21:46:59.354 ServerApp] Connecting to kernel 92615434-505f-4057-9b4e-82defaea471c.
+[I 2024-06-13 21:46:59.510 ServerApp] Starting buffering for 92615434-505f-4057-9b4e-82defaea471c:c0423340-a5e1-416c-81b2-c285f596656b
+[W 2024-06-13 21:47:01.712 LabApp] The extension "@plotly/dash-jupyterlab" is outdated.
+    
+[I 2024-06-13 21:47:01.713 LabApp] Build is up to date
+[W 2024-06-13 21:47:02.609 ServerApp] Notebook medical_malpractice_modeling.ipynb is not trusted
+[I 2024-06-13 21:47:03.232 ServerApp] Connecting to kernel 92615434-505f-4057-9b4e-82defaea471c.
+[I 2024-06-13 22:30:00.702 ServerApp] Starting buffering for 92615434-505f-4057-9b4e-82defaea471c:94152966-5a39-4402-a250-bd9c113cdbdf
+[I 2024-06-13 22:31:07.938 ServerApp] Connecting to kernel 92615434-505f-4057-9b4e-82defaea471c.
+[I 2024-06-13 22:31:08.053 ServerApp] Starting buffering for 92615434-505f-4057-9b4e-82defaea471c:a48f96df-e13b-4489-8d95-422d5d12909c
+[W 2024-06-13 22:31:09.665 LabApp] The extension "@plotly/dash-jupyterlab" is outdated.
+    
+[I 2024-06-13 22:31:09.666 LabApp] Build is up to date
+[W 2024-06-13 22:31:10.449 ServerApp] Notebook medical_malpractice_modeling.ipynb is not trusted
+[I 2024-06-13 22:31:10.900 ServerApp] Connecting to kernel 92615434-505f-4057-9b4e-82defaea471c.
+[I 2024-06-13 22:36:15.711 ServerApp] Starting buffering for 92615434-505f-4057-9b4e-82defaea471c:30d93414-8656-4e60-bfd6-a8e1f57020f8
